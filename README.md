@@ -54,9 +54,8 @@ You can use anonymized sample images from public datasets or create your own syn
 
 **Demo:**
 
-![Demo](./assets/brain_tumor_demo.mp4) 
+![Demo]("assets/brain_tumor_demo.mp4") 
 
-> **Tip:** Place your demo images in the `assets/` folder and update the filenames above if needed.
 
 ## License
 
